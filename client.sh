@@ -275,7 +275,7 @@ curl_arguments=""
 
 ##
 # The host for making the request
-host=""
+host="https://api3.dedimax.com"
 
 ##
 # The user credentials for basic authentication
